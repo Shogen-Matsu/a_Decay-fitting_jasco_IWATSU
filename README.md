@@ -1,1 +1,9 @@
-# a_Decay-fitting_jasco_IWATSU
+### Jasco分光光度計またはシンチレーション測定システム (IWATSUオシロ) で測定された減衰曲線のフィッティングツールです。
+・1つ目のセルがデータ成形用になっています。データの不要な部分を落とし、Fitykでフィッティングできるようにします。
+
+→Fityk (https://github.com/wojdyr/fityk/downloads)
+
+・2つ目のセルでFitykで出したFormulaファイルを基に減衰曲線とフィッティングカーブを併せて描画します。
+
+
+### スクリプトの初期アップロードを行いました。 #Decay 20211019
